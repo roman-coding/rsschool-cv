@@ -19,7 +19,7 @@ Responsible and proactive.
 \
 Highly experienced in different teams.
 \
-Easily find common language with people.
+I am easy in dialog and sociable person, I easily find common language with people.
 
 ### Skills
     * HTML5, CSS3, SCSS, PostCSS, Bootstrap
@@ -56,7 +56,7 @@ Moscow, Russia
 ### Work examples
 Link for my: <a href="https://romanfd.github.io/" target="_blank">Portfolio</a>
 \
-Codewars: <a href="https://www.codewars.com/users/RomanFO/completed_solutions" target="_blank">Completed Kata </a>
+Codewars: <a href="https://www.codewars.com/users/RomanFO/completed" target="_blank">Completed Kata </a>
 
 ### Education
 Kuban State University of Technology (KubSUT)
