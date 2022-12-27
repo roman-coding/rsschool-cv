@@ -64,6 +64,7 @@ Kuban State University of Technology (KubSUT)
 
 ### Licenses & certifications
 ### Courses
+<a href="https://htmlacademy.ru/profile/id766473" target="_blank">HTML Academy</a>
 
 ### Languages
 Russian — Native
