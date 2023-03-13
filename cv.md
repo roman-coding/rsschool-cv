@@ -34,10 +34,14 @@ I am easy in dialog and sociable person, I easily find common language with peop
     * CSS Modules, Styled-components, TailwindCSS
     * Material-UI
 
+### Work examples and Code examples
+Link for my: <a href="https://romanfd.github.io/" target="_blank">Portfolio</a>
+\
+Codewars: <a href="https://www.codewars.com/users/rsschool_c9060e02062f22cc" target="_blank">Completed Kata </a>
+
 ### Experience
 ```
 Project Manager (Digital)
-Repairs and Architecture
 Jun 2020 - Feb 2022 · 1 yr 9 mos
 ```
 ```
@@ -53,22 +57,18 @@ Aug 2014 - Sep 2019 · 5 yr 1 mos
 Moscow, Russia
 ```
 
-### Work examples
-Link for my: <a href="https://romanfd.github.io/" target="_blank">Portfolio</a>
-\
-Codewars: <a href="https://www.codewars.com/users/RomanFO/completed" target="_blank">Completed Kata </a>
-
 ### Education
-Kuban State University of Technology (KubSUT)
+Kuban State University of Technology (KubSU)
 2004 - 2009
 
-### Licenses & certifications
+<!-- ### Licenses & certifications -->
+
 ### Courses
 <a href="https://htmlacademy.ru/profile/id766473" target="_blank">HTML Academy</a>
 
 ### Languages
 Russian — Native
 \
-English — A2
+English — B1
 \
-Czech — A2
+Czech — B1
