@@ -39,6 +39,22 @@ Link for my: <a href="https://romanfd.github.io/" target="_blank">Portfolio</a>
 \
 Codewars: <a href="https://www.codewars.com/users/rsschool_c9060e02062f22cc" target="_blank">Completed Kata </a>
 
+### Code example from Codewars
+7 kyu - Combine objects
+```
+function combine(...objects) {
+  return objects.reduce((acc, obj) => {
+    for (const key in obj) {
+      if (obj.hasOwnProperty(key)) {
+        acc[key] ? (acc[key] += obj[key]) : (acc[key] = obj[key])
+      }
+    }
+    return acc
+  }, {})
+}
+```
+
+
 ### Experience
 ```
 Project Manager (Digital)
